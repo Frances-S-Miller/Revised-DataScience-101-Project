@@ -1,7 +1,7 @@
 # Revised-DataScience-101-Project
 DataScience101 - Term Project Student Performance Analysis
 
-The data for this projecct is downloaded from www.kaggle.com. At the time it was a trending data set on the kaggle site. It has good reviews for being clean and usable. It is described:
+The data for this project is downloaded from www.kaggle.com. At the time it was a trending data set on the kaggle site. It has good reviews for being clean and usable. It is described:
 
 "Filename: Student_Performance.csv Rows: 15,000 Columns: 16
 

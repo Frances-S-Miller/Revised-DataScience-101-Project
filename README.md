@@ -13,4 +13,4 @@ Demographics: age, gender, school type Family background: parent education level
 
 All values follow consistent formatting, column naming conventions, and realistic ranges to ensure ease of use. The dataset is clean, balanced, and ready for immediate download and analysis."
 
-After I chose this database for my project, I did some furtherreading, I determined that the data is SYNTHETICALLY GENERATED. THis is consistent with what at some times seemed to be to data that was too perfect. While this is helpful from to avoid privacy issues, it make me quesiton the validity of my results.
+After I chose this database for my project, I did some furtherreading, I determined that the data is SYNTHETICALLY GENERATED.  While this is helpful from to avoid privacy issues, it make me quesiton the validity of my results.
